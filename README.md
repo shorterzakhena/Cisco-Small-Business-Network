@@ -1,2 +1,2 @@
 # Cisco-Small-Business-Network
-Small business network lab built with Cisco Packet Tracer, featuring VLANs, DHCP, trunking, and inter-VLAN routing.
+I designed and configured a simulated small-business network using Cisco Packet Tracer. This project allowed me to practice VLAN configuration, IP addressing, DHCP, trunking, inter-VLAN routing, and basic network troubleshooting.
