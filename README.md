@@ -19,3 +19,16 @@ I also configured the router's interface with an IP address to serve as the defa
 After configuring the devices, I used the ping command to test connectivity between the PCs and verify that the network was working correctly.
 Ping Test (screenshots)
 
+**Troubleshooting**
+During the setup, I checked the physical connections, device interfaces. IP addresses, and default gateway settings to make sure the devices were configured correctly.
+If a device could not communicate with another device, I checked the cable connections and network configuration and corrected the settings before testing the connections again.
+
+**Skills Demonstrated**
+- Cisco Packet Tracer
+- Basic network topology design
+- Router configuration
+- Switch configuration
+- IP Addressing
+- Default gateway configuration
+- Network connectivity testing
+- basic network troubleshooting
