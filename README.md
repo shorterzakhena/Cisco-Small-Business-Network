@@ -9,7 +9,7 @@ The purpose of this project was to practice connecting network devices, configur
 
 **Network Topology**
 The screenshot below shows the completed network topology in Cisco Packet Tracer. The four PCs are connected to the switch, and the switch is connected to the router.
-
+Network Topology (screenshot)
 
 **IP Address Configuration**
 I configured IP addresses on the four PCs so they could communicate with each other through the network.
@@ -17,4 +17,5 @@ I also configured the router's interface with an IP address to serve as the defa
 
 **Connectivity Testing**
 After configuring the devices, I used the ping command to test connectivity between the PCs and verify that the network was working correctly.
-Ping Test
+Ping Test (screenshots)
+
