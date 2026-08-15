@@ -118,3 +118,5 @@ If a ping fails:
 - Default gateway configuration
 - Network connectivity testing
 - basic network troubleshooting
+
+Created By: Zakhena K. Shorter | Cisco-Small-Business-Network
