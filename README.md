@@ -94,6 +94,7 @@ Also check the router to make sure its connected interface is up/up.
 
 **10. Test Connectivity**
 Use the Command Prompt on each PC.
+
 For example, from PC1, ping another PC:
 ping [PC2 IP address]
 
