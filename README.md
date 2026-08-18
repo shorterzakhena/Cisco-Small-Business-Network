@@ -9,21 +9,26 @@ The purpose of this project was to practice connecting network devices, configur
 - Download Cisco Packet Tracer
   
 **Network Devices**
+
 - 1 Router - Used to provide routing and serve as the network gateway.
 - 1 Switch - Used to connect the four PCs to the network.
 - 4 PCs - Used to test network connectivity and communication.
 
 **Network Topology**
+
 The screenshot below shows the completed network topology in Cisco Packet Tracer. The four PCs are connected to the switch, and the switch is connected to the router.
 
 **IP Address Configuration**
+
 I configured IP addresses on the four PCs so they could communicate with each other through the network.
 I also configured the router's interface with an IP address to serve as the default gateway for the PCs.
 
 **Connectivity Testing**
+
 After configuring the devices, I used the ping command to test connectivity between the PCs and verify that the network was working correctly.
 
 **Troubleshooting**
+
 During the setup, I checked the physical connections, device interfaces. IP addresses, and default gateway settings to make sure the devices were configured correctly.
 If a device could not communicate with another device, I checked the cable connections and network configuration and corrected the settings before testing the connections again.
 
