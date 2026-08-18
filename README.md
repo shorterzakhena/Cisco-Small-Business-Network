@@ -24,6 +24,7 @@ During the setup, I checked the physical connections, device interfaces. IP addr
 If a device could not communicate with another device, I checked the cable connections and network configuration and corrected the settings before testing the connections again.
 
 **Step-by-Step Instructions**
+
 **1. Open Cisco Packet Tracer**
 - Open Cisco Packet Tracer.
 - Create a new project.
