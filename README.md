@@ -1,6 +1,7 @@
 # Cisco-Small-Business-Network
 
 **Objective**
+
 For this project, I created and configured a small network using Cisco Packet Tracer. The network consists of one Cisco router, one Cisco switch, and four PCs. 
 The purpose of this project was to practice connecting network devices, configuring IP addresses, and testing communication between computers on the network.
 
