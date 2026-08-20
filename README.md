@@ -125,4 +125,4 @@ If a ping fails:
 - Network connectivity testing
 - Basic network troubleshooting
 
-Author: Zakhena K. Shorter | Cisco-Small-Business-Network
+Author: Zakhena Shorter IT Professional | Recent IT Graduate
